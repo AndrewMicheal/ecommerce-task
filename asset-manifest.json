@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ecommerce-task/static/css/main.6f59f7d4.chunk.css",
+    "main.js": "/ecommerce-task/static/js/main.b18e2d2b.chunk.js",
+    "main.js.map": "/ecommerce-task/static/js/main.b18e2d2b.chunk.js.map",
+    "runtime-main.js": "/ecommerce-task/static/js/runtime-main.3b6a2625.js",
+    "runtime-main.js.map": "/ecommerce-task/static/js/runtime-main.3b6a2625.js.map",
+    "static/css/2.54a85c2a.chunk.css": "/ecommerce-task/static/css/2.54a85c2a.chunk.css",
+    "static/js/2.97b614ef.chunk.js": "/ecommerce-task/static/js/2.97b614ef.chunk.js",
+    "static/js/2.97b614ef.chunk.js.map": "/ecommerce-task/static/js/2.97b614ef.chunk.js.map",
+    "static/js/3.67bafcce.chunk.js": "/ecommerce-task/static/js/3.67bafcce.chunk.js",
+    "static/js/3.67bafcce.chunk.js.map": "/ecommerce-task/static/js/3.67bafcce.chunk.js.map",
+    "index.html": "/ecommerce-task/index.html",
+    "static/css/2.54a85c2a.chunk.css.map": "/ecommerce-task/static/css/2.54a85c2a.chunk.css.map",
+    "static/css/main.6f59f7d4.chunk.css.map": "/ecommerce-task/static/css/main.6f59f7d4.chunk.css.map",
+    "static/js/2.97b614ef.chunk.js.LICENSE.txt": "/ecommerce-task/static/js/2.97b614ef.chunk.js.LICENSE.txt",
+    "static/media/AdvertisingStyle.css": "/ecommerce-task/static/media/SOL-77394-applewatch-lob-pm-sv_der-209680.e1b7b1ae.jpg",
+    "static/media/all.min.css": "/ecommerce-task/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/icon.5adf6493.PNG": "/ecommerce-task/static/media/icon.5adf6493.PNG",
+    "static/media/icon2.609c8d8d.PNG": "/ecommerce-task/static/media/icon2.609c8d8d.PNG",
+    "static/media/icon3.2f70b019.PNG": "/ecommerce-task/static/media/icon3.2f70b019.PNG",
+    "static/media/icon4.6f222b70.PNG": "/ecommerce-task/static/media/icon4.6f222b70.PNG",
+    "static/media/icon5.fcbab582.PNG": "/ecommerce-task/static/media/icon5.fcbab582.PNG",
+    "static/media/icon6.3a0eb72e.PNG": "/ecommerce-task/static/media/icon6.3a0eb72e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b6a2625.js",
+    "static/css/2.54a85c2a.chunk.css",
+    "static/js/2.97b614ef.chunk.js",
+    "static/css/main.6f59f7d4.chunk.css",
+    "static/js/main.b18e2d2b.chunk.js"
+  ]
+}
