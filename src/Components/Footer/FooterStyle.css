@@ -1,0 +1,15 @@
+.footerTitle {
+    color:#4B4B4C
+}
+
+.footerDesc {
+    line-height: 1.6;
+}
+
+.footerDesc  , .footerAboutUs{
+    color: #747779;
+}
+
+.footerText {
+    color: #cfd7df;
+}
